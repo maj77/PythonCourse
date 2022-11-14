@@ -1,0 +1,11 @@
+{
+    "employees": [
+        {
+            "name": "andrzej",
+            "surname": "duda",
+            "role": "prezydent",
+            "email": "PAD@wp.pl",
+            "phone": "997997997"
+        }
+    ]
+}
